@@ -1,0 +1,8 @@
+cortar|ajo|perejil|cebolla
+mezclar|ajo|perjil|cebolla|carne
+salar|ajo|perejil|cebolla|carne
+armar|ajo|perejil|cebolla|carne
+cocinar_plancha|ajo|perejil|cebolla|carne
+hornear_pan
+cortar_lechuga_tomate|luchuga|tomate
+armar_hamburguesa

@@ -1,0 +1,1680 @@
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 1 - accion armar_hamburguesa 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion armar_hamburguesa 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar_lechuga_tomate 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : lechuga 
+	Equipo 1 ingrediente  1 : tomate 
+	Equipo 3 - accion cortar_lechuga_tomate 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : lechuga 
+	Equipo 3 ingrediente  1 : tomate 
+	Equipo 1 - accion hornear_pan 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 2 - accion armar_hamburguesa 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion hornear_pan 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 2 - accion cortar_lechuga_tomate 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : lechuga 
+	Equipo 2 ingrediente  1 : tomate 
+	Equipo 1 - accion cocinar_plancha 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion hornear_pan 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 3 - accion cocinar_plancha 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion cocinar_plancha 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion salar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 3 - accion salar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 2 - accion salar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 3 - accion mezclar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
+	Equipo 3 ingrediente  3 : carne picada 
+	Equipo 1 - accion mezclar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 1 ingrediente  3 : carne picada 
+	Equipo 2 - accion mezclar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 2 ingrediente  3 : carne picada 
+	Equipo 1 - accion cortar 
+ 	Equipo 1-----------ingredientes:-------------- 
+ 	Equipo 1 ingrediente  0 : ajo 
+	Equipo 1 ingrediente  1 : perejil 
+	Equipo 1 ingrediente  2 : cebolla 
+	Equipo 2 - accion cortar 
+ 	Equipo 2-----------ingredientes:-------------- 
+ 	Equipo 2 ingrediente  0 : ajo 
+	Equipo 2 ingrediente  1 : perejil 
+	Equipo 2 ingrediente  2 : cebolla 
+	Equipo 3 - accion cortar 
+ 	Equipo 3-----------ingredientes:-------------- 
+ 	Equipo 3 ingrediente  0 : ajo 
+	Equipo 3 ingrediente  1 : perejil 
+	Equipo 3 ingrediente  2 : cebolla 
